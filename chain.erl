@@ -1,5 +1,3 @@
-% Assignment 4 - Erlang Processes Program
-% Team Members: Tanner Macpherson
 
 -module(chain).
 -export([start/0, serv1/1, serv2/1, serv3/1]).
