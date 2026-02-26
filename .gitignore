@@ -1,0 +1,11 @@
+# Erlang compiled files
+*.beam
+
+# Build artifacts
+*.zip
+
+# OS files
+.DS_Store
+
+# Claude files
+.claude/
